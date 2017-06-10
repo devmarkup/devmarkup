@@ -1,0 +1,127 @@
+fieldset{
+    border: 0;
+    padding: 0 0 0 6.5%;
+}
+.outtaHere {
+	position:absolute;
+	left:-3000px;
+}
+/* Selects */
+.price .selectArea {
+	position: relative;
+	height: 40px;
+	border: 2px solid #fff;
+    width: 240px !important;
+	color:#fff;
+	font-size: 18px;
+	line-height:20px;
+    box-sizing: border-box;  
+    display: inline-block;
+    margin: 0 3% 3.6% 0;
+}
+.price  .selectArea a.selectButton {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width:40px;
+	height:100%;
+	background: url(../img/select_price.png) no-repeat;
+}
+.price .selectArea .center{
+	height: 36px;
+	display:block;
+    padding: 9px 0 0 19px;
+    box-sizing: border-box;
+}
+/*Selects drop-down*/
+.optionsDivInvisible,
+.optionsDivVisible {
+	position: absolute;
+    width: 240px !important;
+	background: #fff;
+	display: block;
+	z-index: 30;
+	font-size: 18px;
+    color: #212224;
+    padding-top: 7px;
+    padding-bottom: 11px;
+}
+.optionsDivInvisible {display: none;}
+.optionsDivVisible ul {
+	margin:0;
+	list-style: none;
+}
+.optionsDivVisible a {
+	color: #212224;
+	text-decoration: none;
+	display: block;
+	height: 1%;
+	padding: 0 0 0 22px;
+    line-height: 37px;
+    
+}
+.optionsDivVisible a:hover {
+	background: #f0f0f0;
+}
+@media screen and (max-width: 600px){
+    .price .selectArea {
+        width: 100% !important;
+        max-width: 500px; 
+        display: block;
+        margin-bottom: 20px;
+    }
+    .optionsDivVisible {
+        position: absolute;
+        width: 88.6% !important;
+        background: #fff;
+        display: block;
+        z-index: 30;
+        font-size: 18px;
+        color: #212224;
+        padding-top: 7px;
+        padding-bottom: 11px;
+    }
+}
+@media screen and (max-width: 550px){
+    .optionsDivVisible{
+        width: 89.6% !important;
+    }
+}
+@media screen and (max-width: 370px){
+    .price .selectArea{
+        font-size: 15px;
+    }
+}
+
+*::-webkit-input-placeholder {
+    color: #fff;
+    font-family: "CuprumRegular";
+    font-size: 18px;
+    line-height: 20px;
+    box-sizing: border-box;
+    margin-bottom: 19px;
+}
+*:-moz-placeholder {
+    color: #fff;
+    font-family: "CuprumRegular";
+    font-size: 18px;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+*::-moz-placeholder {
+    color: #fff;
+    font-family: "CuprumRegular";
+    font-size: 18px;
+    line-height: 20px;
+    box-sizing: border-box;
+    
+}
+*:-ms-input-placeholder {
+    color: #fff;
+    font-family: "CuprumRegular";
+    font-size: 18px;
+    line-height: 20px;
+    padding: 11px 20px 11px 20px;
+    box-sizing: border-box;
+}
+
