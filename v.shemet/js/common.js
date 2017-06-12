@@ -5,7 +5,7 @@ particlesJS('particles-js', {
         opacity: 0.6,
         size: 4,
         size_random: true,
-        nb: 100,
+        nb: 110,
         line_linked: {
             enable_auto: true,
             distance: 100,
