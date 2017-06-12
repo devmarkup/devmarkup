@@ -46,14 +46,14 @@ particlesJS('particles-js', {
 /////////////////////
 new WOW().init();
 // Nav
-$(document).ready(function() {
+$(document).ready(function () {
     $("a.ancLinks").click(function () {
         var elementClick = $(this).attr("href");
         var destination = $(elementClick).offset().top;
-        $('html,body').animate( { scrollTop: destination }, 1000 );
+        $('html,body').animate({scrollTop: destination}, 1000);
         return false;
     });
 });
-$('#menu-toggle').click(function(){
+$('#menu-toggle').click(function () {
     $(this).toggleClass('open');
 });
