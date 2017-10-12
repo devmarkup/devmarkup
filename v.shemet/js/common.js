@@ -1,7 +1,7 @@
 particlesJS('particles-js', {
     particles: {
         color: '#fff',
-        shape: 'circle',
+        shape: 'circle', // "circle", "edge" or "triangle"
         opacity: 0.6,
         size: 4,
         size_random: true,
@@ -28,7 +28,7 @@ particlesJS('particles-js', {
         mouse: {
             distance: 250
         },
-        detect_on: 'canvas',
+        detect_on: 'canvas', // "canvas" or "window"
         mode: 'grab',
         line_linked: {
             opacity: .5
@@ -36,13 +36,14 @@ particlesJS('particles-js', {
         events: {
             onclick: {
                 enable: true,
-                mode: 'push',
+                mode: 'push', // "push" or "remove" (particles)
                 nb: 4
             }
         }
     },
     retina_detect: true
 });
+/////////////////////
 new WOW().init();
 // Nav
 $(document).ready(function () {
@@ -55,4 +56,9 @@ $(document).ready(function () {
 });
 $('#menu-toggle').click(function () {
     $(this).toggleClass('open');
+});
+
+
+$('.toggle-icon').click(function() {
+    $('#nav-container').toggleClass('pushed');
 });
