@@ -1,11 +1,11 @@
 particlesJS('particles-js', {
     particles: {
         color: '#fff',
-        shape: 'circle', // "circle", "edge" or "triangle"
+        shape: 'circle',
         opacity: 0.6,
         size: 4,
         size_random: true,
-        nb: 110,
+        nb: 130,
         line_linked: {
             enable_auto: true,
             distance: 100,
@@ -13,7 +13,7 @@ particlesJS('particles-js', {
             opacity: 0.7,
             width: 1,
             condensed_mode: {
-                enable: false,
+                enable: true,
                 rotateX: 600,
                 rotateY: 600
             }
@@ -28,7 +28,7 @@ particlesJS('particles-js', {
         mouse: {
             distance: 250
         },
-        detect_on: 'canvas', // "canvas" or "window"
+        detect_on: 'canvas',
         mode: 'grab',
         line_linked: {
             opacity: .5
@@ -36,14 +36,15 @@ particlesJS('particles-js', {
         events: {
             onclick: {
                 enable: true,
-                mode: 'push', // "push" or "remove" (particles)
-                nb: 4
-            }
+                mode: 'push',
+                nb: 6
+            },
+            resize: true
         }
     },
     retina_detect: true
 });
-/////////////////////
+
 new WOW().init();
 // Nav
 $(document).ready(function () {
