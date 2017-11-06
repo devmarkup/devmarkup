@@ -29,6 +29,21 @@ $(document).ready(function () {
     $('img').on('dragstart', function (event) {
         event.preventDefault();
     });
+
+    // MagnificPopup
+    // $('.request-call-modal').magnificPopup({
+    //     type: 'inline'
+    // });
+
+    $('.request-call-modal').magnificPopup({
+        removalDelay: 100,
+        callbacks: {
+            beforeOpen: function () {
+                this.st.mainClass = this.st.el.attr('data-effect');
+            }
+        },
+        midClick: false
+    });
 });
 
 $(window).resize(function () {
