@@ -47,10 +47,10 @@ particlesJS('particles-js', {
 new WOW().init();
 
 $(document).on('load', function () {
-  $("a.ancLinks").click(function () {
-    var elementClick = $(this).attr("href");
-    var destination = $(elementClick).offset().top;
-    $('html,body').animate({scrollTop: destination}, 1000);
+  $('a.ancLinks').click(function () {
+    let elementClick = $(this).attr('href');
+    let destination = $(elementClick).offset().top;
+    $('html, body').animate({scrollTop: destination}, 1000);
     return false;
   });
 });
