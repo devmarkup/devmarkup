@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eafedd9-afcd-44af-a6fa-65a809477635" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/tr-education.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/trading.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,10 +20,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="279" column="40" lean-forward="true" selection-start-line="279" selection-start-column="40" selection-end-line="279" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#li#4;n#ul#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="279" column="41" lean-forward="true" selection-start-line="279" selection-start-column="41" selection-end-line="279" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -115,18 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1522006165139</updated>
       <workItem from="1522006167790" duration="170000" />
-      <workItem from="1555013624427" duration="691000" />
+      <workItem from="1555013624427" duration="704000" />
+      <workItem from="1555014590621" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="861000" />
+    <option name="totallyTimeSpent" value="879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1204" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2172443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2172443" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -138,7 +134,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289855" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -152,10 +148,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="279" column="40" lean-forward="true" selection-start-line="279" selection-start-column="40" selection-end-line="279" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#li#4;n#ul#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="279" column="41" lean-forward="true" selection-start-line="279" selection-start-column="41" selection-end-line="279" selection-end-column="41" />
         </state>
       </provider>
     </entry>
