@@ -4,13 +4,123 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="fixes">
-      <change afterPath="$PROJECT_DIR$/constellation/img/home/cities/decor-l.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/home/cities/plus.svg" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="cities">
+      <change afterPath="$PROJECT_DIR$/constellation/img/icons/slider/next-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constellation/img/icons/slider/prev-arrow.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/css/libs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/OranienbaumRegular/Oranienbaum-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/OranienbaumRegular/Oranienbaum-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/OranienbaumRegular/Oranienbaum-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/OranienbaumRegular/Oranienbaum-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/PlfDisplay/PlayfairDisplay-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/PlfDisplay/PlayfairDisplay-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/PlfDisplay/PlayfairDisplay-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/PlfDisplay/PlayfairDisplay-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/PlfDisplay/PlayfairDisplay-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/SansNarrow/PTSans-Narrow.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/SansNarrow/PTSans-Narrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/SansNarrow/PTSans-Narrow.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/SansNarrow/PTSans-Narrow.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/open_sans/OpenSans.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/open_sans/OpenSans.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/open_sans/OpenSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/fonts/open_sans/OpenSans.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/13865457841xm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/591.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/6ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/Cartier-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/LogoMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/Montale_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/Vera_Wang_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/bg_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/bg_services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/bg_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/clinque-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/close_mnu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/foo_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/masters_img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/masters_img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/masters_img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/masters_img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/menu_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/quotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/slash_serv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/img/social_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remake/js/libs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/css/libs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumBold/CuprumBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumBold/CuprumBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumBold/CuprumBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumBold/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumRegular/CuprumRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumRegular/CuprumRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumRegular/CuprumRegular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/fonts/CuprumRegular/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_how_working.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_mob_price_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_mob_price_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_owl_perf_mob.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_perf_owl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/bg_price_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/facts_icon_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/how2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/img_perfom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/left_form_1_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/maps.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/menu_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/modal-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/name_form_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/owl-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/owl-prew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/perf_nav_next.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/perf_nav_prev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/perf_owl_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/perf_owl_item1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/phone_form_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/popup_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/price_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/question.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/right_form_1_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/select_price.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/why_item_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/img/whyus_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/js/custom-selects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service_repair/js/libs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/libs.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/img/home/who-we-are/wave.png" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/img/home/who-we-are/wave.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/js/libs-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/libs-min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,16 +188,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/vitaliksemet/WebStorm/bets.github.io",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vitaliksemet/WebStorm/bets.github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -106,8 +216,17 @@
       <workItem from="1533500540181" duration="80000" />
       <workItem from="1650813496548" duration="2030000" />
       <workItem from="1658738527739" duration="5000" />
-      <workItem from="1658785841234" duration="41000" />
+      <workItem from="1658785841234" duration="57000" />
+      <workItem from="1658851777248" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="cities">
+      <created>1658785890796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658785890796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -154,7 +273,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="cities" />
+    <option name="LAST_COMMIT_MESSAGE" value="cities" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
