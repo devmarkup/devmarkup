@@ -56,10 +56,37 @@ $(document).ready(() => {
 
     setThemeClass();
   }
+
   function setCurrentYear() {
     $('.current-year').text(new Date().getFullYear());
   }
 
+  function slideToggle() {
+    $('.links').on('click', function () {
+      $(this).siblings('.menu__links').slideToggle(150);
+      $(this).toggleClass('active');
+      s;
+    });
+    $('.contacts').on('click', function () {
+      $(this).siblings('.menu__contacts').slideToggle(150);
+      $(this).toggleClass('active');
+    });
+  }
+
+  function initMenu() {
+    $('.menu').click(function () {
+      $('body').addClass('fixed');
+      $('.full-menu').addClass('open');
+    });
+
+    $('.full-menu__close, .full-menu a').click(function () {
+      $('body').removeClass('fixed');
+      $('.full-menu').removeClass('open');
+    });
+  }
+
   initUserTheme();
+  initMenu();
   setCurrentYear();
+  slideToggle();
 });
