@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="what they say">
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/be.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/dribble.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/fb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/insta.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/map-pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/icons/footer/phone.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/app.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="footer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
