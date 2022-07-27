@@ -56,6 +56,10 @@ $(document).ready(() => {
 
     setThemeClass();
   }
+  function setCurrentYear() {
+    $('.current-year').text(new Date().getFullYear());
+  }
 
   initUserTheme();
+  setCurrentYear();
 });
