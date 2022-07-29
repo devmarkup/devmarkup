@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="footer">
+      <change afterPath="$PROJECT_DIR$/constellation/ua/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/libs.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/app.js" afterDir="false" />
@@ -119,6 +119,7 @@
       <workItem from="1659022315867" duration="65000" />
       <workItem from="1659085990284" duration="49000" />
       <workItem from="1659092196810" duration="22000" />
+      <workItem from="1659099977461" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
