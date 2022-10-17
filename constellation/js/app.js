@@ -16,12 +16,14 @@ $(document).ready(() => {
 
   function initMenu() {
     $('.menu').click(function () {
-      $('body').addClass('fixed');
+      $('body').addClass('oh');
+      $('html').addClass('oh');
       $('.full-menu').addClass('open');
     });
 
     $('.full-menu__close').click(function () {
-      $('body').removeClass('fixed');
+      $('body').removeClass('oh');
+      $('html').removeClass('oh');
       $('.full-menu').removeClass('open');
     });
   }
@@ -37,7 +39,22 @@ $(document).ready(() => {
     });
   }
 
+  function fixedTopBlock() {
+    let topFixedBlock = $('.first-screen__top');
+    let fullMenu = $('.full-menu');
+    let headTop = $('.details-portfolio__head--top');
+
+    $(window).on('scroll', function () {
+      let windowScroll = $(window).scrollTop();
+      windowScroll >= 100 ? fullMenu.addClass('fixed-top') : fullMenu.removeClass('fixed-top');
+      windowScroll >= 100 ? headTop.addClass('fixed-top') : headTop.removeClass('fixed-top');
+      windowScroll >= 100 ? topFixedBlock.addClass('hide-top') : topFixedBlock.removeClass('hide-top');
+      windowScroll >= 150 ? topFixedBlock.addClass('fixed-top') : topFixedBlock.removeClass('fixed-top');
+    });
+  }
+
   initMenu();
+  fixedTopBlock();
   setCurrentYear();
   slideToggle();
   toggleLang();
