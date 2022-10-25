@@ -57,12 +57,23 @@ $(document).ready(() => {
     $('.get-started-modal').magnificPopup({
       type: 'inline'
     });
+    $('.modal__close button').click(function () {
+      $('.mfp-close').trigger('click');
+    });
+  }
 
-    $('.modal__close svg').magnificPopup('close');
+  function initIntlTelInput() {
+    $('#phone-country').mask('(000) 000 000');
+    window.intlTelInput(document.querySelector('#phone-country'), {
+      separateDialCode: true,
+      defaultCountry: 'auto',
+      preferredCountries: ['ua']
+    });
   }
 
   initMenu();
   initModal();
+  initIntlTelInput();
   fixedTopBlock();
   setCurrentYear();
   slideToggle();
