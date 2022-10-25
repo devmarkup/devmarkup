@@ -55,7 +55,15 @@ $(document).ready(() => {
 
   function initModal() {
     $('.get-started-modal').magnificPopup({
-      type: 'inline'
+      type: 'inline',
+      callbacks: {
+        open: function () {
+          $('body').addClass('oh');
+        },
+        close: function () {
+          $('body').removeClass('oh');
+        }
+      }
     });
     $('.modal__close button').click(function () {
       $('.mfp-close').trigger('click');
