@@ -58,9 +58,11 @@ $(document).ready(() => {
       type: 'inline',
       callbacks: {
         open: function () {
+          $('html').addClass('oh');
           $('body').addClass('oh');
         },
         close: function () {
+          $('html').removeClass('oh');
           $('body').removeClass('oh');
         }
       }
