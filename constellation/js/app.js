@@ -53,7 +53,16 @@ $(document).ready(() => {
     });
   }
 
+  function initModal() {
+    $('.get-started-modal').magnificPopup({
+      type: 'inline'
+    });
+
+    $('.modal__close svg').magnificPopup('close');
+  }
+
   initMenu();
+  initModal();
   fixedTopBlock();
   setCurrentYear();
   slideToggle();
