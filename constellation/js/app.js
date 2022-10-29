@@ -54,21 +54,11 @@ $(document).ready(() => {
   }
 
   function initModal() {
-    $('.get-started-modal').magnificPopup({
-      type: 'inline',
-      callbacks: {
-        open: function () {
-          $('html').addClass('oh');
-          $('body').addClass('oh');
-        },
-        close: function () {
-          $('html').removeClass('oh');
-          $('body').removeClass('oh');
-        }
-      }
-    });
-    $('.modal__close button').click(function () {
-      $('.mfp-close').trigger('click');
+    $('.get-started-modal').click(function () {
+      $('#get-started-modal').modal({
+        showClose: false,
+        fadeDuration: 100
+      });
     });
   }
 
