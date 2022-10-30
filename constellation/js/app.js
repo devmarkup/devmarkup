@@ -63,12 +63,15 @@ $(document).ready(() => {
   }
 
   function initIntlTelInput() {
-    $('#phone-country').mask('(000) 000 000');
-    window.intlTelInput(document.querySelector('#phone-country'), {
-      separateDialCode: true,
-      defaultCountry: 'auto',
-      preferredCountries: ['ua']
-    });
+    const phone = document.querySelector('#phone-country');
+    if (phone) {
+      $('#phone-country').mask('(000) 000 000');
+      window.intlTelInput(phone, {
+        separateDialCode: true,
+        defaultCountry: 'auto',
+        preferredCountries: ['ua']
+      });
+    }
   }
 
   initMenu();
