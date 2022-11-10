@@ -63,15 +63,44 @@ $(document).ready(() => {
   }
 
   function initIntlTelInput() {
-    const phone = document.querySelector('#phone-country');
-    if (phone) {
-      $('#phone-country').mask('(000) 000 000');
-      window.intlTelInput(phone, {
-        separateDialCode: true,
-        defaultCountry: 'auto',
-        preferredCountries: ['ua']
-      });
+    const phoneContainer = $('.phone-container');
+    const phone1 = $('.phone1');
+    const phone2 = $('.phone2');
+
+    function initMasking(formatterInput, maskedInput) {
+      const format = $(formatterInput).attr('placeholder');
+      $(maskedInput).attr('placeholder', format);
+      $(maskedInput).mask(format.replace(/[1-9]/g, 0));
     }
+
+    phone1.intlTelInput({
+      initialCountry: 'ua',
+      autoPlaceholder: 'aggressive',
+      geoIpLookup: function (callback) {
+        $.get('https://ipinfo.io', function () {}, 'jsonp').always(function (resp) {
+          const countryCode = resp && resp.country ? resp.country : '';
+          callback(countryCode);
+        });
+      }
+    });
+    initMasking('.phone1', '.phone2');
+    phone1.on('countrychange', function () {
+      $(this).val('');
+      phone2.val('');
+      initMasking(this, '.phone2');
+    });
+    phone2.focusin(() => {
+      phoneContainer.addClass('focus');
+    });
+    phone2.focusout(() => {
+      phoneContainer.removeClass('focus');
+    });
+    phoneContainer.on('mouseover', () => {
+      phoneContainer.addClass('hover');
+    });
+    phoneContainer.on('mouseleave', () => {
+      phoneContainer.removeClass('hover');
+    });
   }
 
   initMenu();
