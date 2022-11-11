@@ -76,6 +76,7 @@ $(document).ready(() => {
     phone1.intlTelInput({
       initialCountry: 'ua',
       autoPlaceholder: 'aggressive',
+      preferredCountries: ['ua', 'us', 'gb'],
       geoIpLookup: function (callback) {
         $.get('https://ipinfo.io', function () {}, 'jsonp').always(function (resp) {
           const countryCode = resp && resp.country ? resp.country : '';
@@ -103,6 +104,23 @@ $(document).ready(() => {
     });
   }
 
+  function fileUpload() {
+    const fileUpload = $('#file-upload');
+    const uploadFileName = $('.upload__file-name');
+    const defaultText = uploadFileName.text();
+    if (fileUpload) {
+      fileUpload.change(function (e) {
+        uploadFileName.text(e.target.files[0].name);
+        $('.upload__buttons').addClass('show');
+      });
+    }
+    $('.upload__delete').click(() => {
+      $('#file-upload').val(null);
+      uploadFileName.text(defaultText);
+      $('.upload__buttons').removeClass('show');
+    });
+  }
+
   initMenu();
   initModal();
   initIntlTelInput();
@@ -110,4 +128,5 @@ $(document).ready(() => {
   setCurrentYear();
   slideToggle();
   toggleLang();
+  fileUpload();
 });
