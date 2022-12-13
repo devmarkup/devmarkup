@@ -68,9 +68,13 @@ $(document).ready(() => {
     const phone2 = $('.phone2');
 
     function initMasking(formatterInput, maskedInput) {
-      const format = $(formatterInput).attr('placeholder');
-      $(maskedInput).attr('placeholder', format);
-      $(maskedInput).mask(format.replace(/[1-9]/g, 0));
+      if (formatterInput && maskedInput) {
+        const format = $(formatterInput).attr('placeholder');
+        if (format) {
+          $(maskedInput).attr('placeholder', format);
+          $(maskedInput).mask(format.replace(/[1-9]/g, 0));
+        }
+      }
     }
 
     phone1.intlTelInput({
