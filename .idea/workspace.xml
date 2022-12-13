@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="asdasdasd">
-      <change afterPath="$PROJECT_DIR$/constellation/en/eugene-sockolovsky-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/ua/eugene-sockolovsky-test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
@@ -18,6 +16,7 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/digital-marketing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/e-commerce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/eugene-sockolovsky-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/eugene-sockolovsky-test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/eugene-sockolovsky.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/eugene-sockolovsky.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/illustrations.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/illustrations.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/index.html" afterDir="false" />
@@ -33,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/todo-bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/todo-bank.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/team/EugeneSockolovsky.png" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/img/team/EugeneSockolovsky.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" afterDir="false" />
@@ -42,6 +42,7 @@
       <change beforePath="$PROJECT_DIR$/constellation/ua/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/digital-marketing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/e-commerce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/eugene-sockolovsky-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/eugene-sockolovsky-test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/eugene-sockolovsky.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/eugene-sockolovsky.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/illustrations.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/illustrations.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/index.html" afterDir="false" />
@@ -175,7 +176,8 @@
       <workItem from="1659117405153" duration="290000" />
       <workItem from="1659118504318" duration="32000" />
       <workItem from="1670956632924" duration="152000" />
-      <workItem from="1670957917533" duration="4000" />
+      <workItem from="1670957917533" duration="129000" />
+      <workItem from="1670958861566" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -219,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670956711473</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="asdasdasd">
+      <created>1670957992987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670957992987</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
