@@ -4,32 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="asdasdasd">
-      <change afterPath="$PROJECT_DIR$/gci-services/css/libs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-bold-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-bold-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-extrabold-800.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-extrabold-800.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-medium-500.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-medium-500.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-semibold-600.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-semibold-600.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/experienced.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/modern.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/quality.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/favicon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/first-screen/arrow-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/first-screen/first-screen-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/img/why-us/why-us-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/js/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/js/libs-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gci-services/js/libs.js" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="desktop">
+      <change afterPath="$PROJECT_DIR$/gci-services/img/about/about-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/contact-us/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/due-to-well/due-to-well-img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/due-to-well/due-to-well-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/due-to-well/due-to-well-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/footer/Facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/footer/Linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/footer/Twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/our-projects/link-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/partners/StilmasSpA_OlsaSpA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/partners/link-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/partners/pharm2b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/partners/pharmdoor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gci-services/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/gci-services/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gci-services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gci-services/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gci-services/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gci-services/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gci-services/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/gci-services/js/app.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +144,8 @@
       <workItem from="1670957917533" duration="129000" />
       <workItem from="1670958861566" duration="25000" />
       <workItem from="1670959493204" duration="1299000" />
-      <workItem from="1671985450902" duration="7000" />
+      <workItem from="1671985450902" duration="1044000" />
+      <workItem from="1672009481897" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -202,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670957992987</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="start">
+      <created>1671985503371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671985503372</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -254,7 +255,9 @@
     <MESSAGE value="footer" />
     <MESSAGE value="fixed hovers" />
     <MESSAGE value="asdasdasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="asdasdasd" />
+    <MESSAGE value="start" />
+    <MESSAGE value="desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="desktop" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
