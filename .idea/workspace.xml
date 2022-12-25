@@ -5,6 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="asdasdasd">
+      <change afterPath="$PROJECT_DIR$/gci-services/css/libs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/css/styles.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-bold-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-bold-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-extrabold-800.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-extrabold-800.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-medium-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-medium-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-semibold-600.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/fonts/inter-semibold-600.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/experienced.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/modern.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/advantages/quality.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/favicon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/first-screen/arrow-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/first-screen/first-screen-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/logo-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/img/why-us/why-us-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/js/libs-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gci-services/js/libs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +150,8 @@
       <workItem from="1670956632924" duration="152000" />
       <workItem from="1670957917533" duration="129000" />
       <workItem from="1670958861566" duration="25000" />
+      <workItem from="1670959493204" duration="1299000" />
+      <workItem from="1671985450902" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
