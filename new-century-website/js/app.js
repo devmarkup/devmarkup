@@ -3,15 +3,15 @@ $(document).ready(() => {
     if (!this || !this.length) {
       return;
     }
-    var $me = this;
-    var $active;
-    var $content;
-    var $links = $me.find('a');
+    let $me = this;
+    let $active;
+    let $content;
+    let $links = $me.find('a');
 
     $active = $($links.filter('[href="' + location.hash + '"]')[0] || $links[0]);
     $active.addClass('active');
     $links.not($active).each(function () {
-      $me.find(this.hash).fadeOut(400).hide();
+      $me.find(this.hash).fadeOut(100).hide();
     });
     $content = $me.find($active[0].hash);
 
@@ -25,7 +25,7 @@ $(document).ready(() => {
       $active = $me.find(this);
       $content = $me.find(this.hash);
       $active.addClass('active');
-      $content.fadeIn(400).show();
+      $content.fadeIn(100).show();
     });
     return this;
   };
