@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website">
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/home/testimonials/testimonials-left-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/home/testimonials/testimonials-right-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-century-website/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-century-website/img/home/testimonials/testimonials-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-century-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +136,7 @@
       <workItem from="1672162622930" duration="72000" />
       <workItem from="1672760309774" duration="128000" />
       <workItem from="1672761315614" duration="10000" />
+      <workItem from="1672823724605" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -228,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672760417128</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new-century-website">
+      <created>1672823793364</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823793364</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
