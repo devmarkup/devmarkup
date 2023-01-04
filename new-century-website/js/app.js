@@ -42,5 +42,23 @@ $(document).ready(() => {
     });
   }
 
+  function toggleEl() {
+    $('.head-toggle').on('click', function () {
+      $(this).siblings('.cont-toggle').slideToggle(150);
+      $(this).toggleClass('active');
+    });
+  }
+
+  function initPhoneMask() {
+    $('#footer-phone').mask('9 (999) 999-9999');
+  }
+
+  function setCurrentYear() {
+    $('.current-year').text(new Date().getFullYear());
+  }
+
   stickyHeader();
+  toggleEl();
+  initPhoneMask();
+  setCurrentYear();
 });
