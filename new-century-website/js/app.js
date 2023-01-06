@@ -57,8 +57,21 @@ $(document).ready(() => {
     $('.current-year').text(new Date().getFullYear());
   }
 
+  function scrollTop() {
+    $('.scroll-top').on('click', function (e) {
+      e.preventDefault();
+      $('html, body').animate(
+        {
+          scrollTop: 0
+        },
+        400
+      );
+    });
+  }
+
   stickyHeader();
   toggleEl();
   initPhoneMask();
   setCurrentYear();
+  scrollTop();
 });

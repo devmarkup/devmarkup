@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website">
+      <change afterPath="$PROJECT_DIR$/new-century-website/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/fonts/poppins-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/fonts/poppins-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/about-us-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/fs/about-us-fs-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/icons/Checkmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/icons/quotation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/learn-more/Frame70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/about-us/our-story/Frame75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/icons/arrow-right-breadcrumbs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/js/app.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +153,7 @@
       <workItem from="1672761315614" duration="10000" />
       <workItem from="1672823724605" duration="76000" />
       <workItem from="1672824328824" duration="1034000" />
+      <workItem from="1673004808639" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
