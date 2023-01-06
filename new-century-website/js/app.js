@@ -43,9 +43,9 @@ $(document).ready(() => {
   }
 
   function toggleEl() {
-    $('.head-toggle').on('click', function () {
-      $(this).siblings('.cont-toggle').slideToggle(150);
-      $(this).toggleClass('active');
+    $('.head-toggle svg').on('click', function () {
+      $(this).parent().siblings('.cont-toggle').slideToggle(150);
+      $(this).parent().toggleClass('active');
     });
   }
 
