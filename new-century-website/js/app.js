@@ -30,6 +30,29 @@ $(document).ready(() => {
     return this;
   };
 
+  function toggleMobileMenu() {
+    const body = $('body');
+    const burger = $('.header__burger');
+    const headerNav = $('.header__nav');
+    const closeMenu = $('.close-menu');
+    burger.click(function () {
+      body.addClass('oh');
+      headerNav.addClass('active');
+    });
+    closeMenu.click(function () {
+      body.removeClass('oh');
+      headerNav.removeClass('active');
+    });
+    $('.header__nav-item svg').click(function () {
+      $(this).parent().siblings('.header__menu').toggleClass('active');
+      $(this).parent().toggleClass('active');
+    });
+    $('.menu-item__category').click(function () {
+      $(this).toggleClass('active');
+      $(this).siblings('.menu-item__links').toggleClass('active');
+    });
+  }
+
   function stickyHeader() {
     let header = $('.header');
     let body = $('body');
@@ -69,6 +92,7 @@ $(document).ready(() => {
     });
   }
 
+  toggleMobileMenu();
   stickyHeader();
   toggleEl();
   initPhoneMask();
