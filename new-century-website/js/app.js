@@ -30,6 +30,31 @@ $(document).ready(() => {
     return this;
   };
 
+  function customSelect(selectId) {
+    let selectHead = $(`${selectId} .select__head`);
+    let selectDrop = $(`${selectId} .select__drop`);
+    selectHead.on('click', function () {
+      selectHead.toggleClass('open');
+      $(this).siblings('.select__drop').toggleClass('open');
+    });
+    let selectDropItems = $(`${selectId} .select__drop .item`);
+    selectDropItems.on('click', function () {
+      selectDropItems.removeClass('active');
+      $(this).addClass('active');
+      console.log($(this).text());
+      let rep_text = $(this).text();
+      $(`${selectId} .inner-text.inner-text`).text(rep_text);
+      selectHead.toggleClass('open');
+      selectDrop.toggleClass('open');
+    });
+    $(document).mouseup(function () {
+      let div = $(selectId);
+      if ($(event.target).closest(div).length) return;
+      selectHead.removeClass('open');
+      selectDrop.removeClass('open');
+    });
+  }
+
   function toggleMobileMenu() {
     const body = $('body');
     const burger = $('.header__burger');
@@ -92,6 +117,10 @@ $(document).ready(() => {
     });
   }
 
+  customSelect('#client-select');
+  customSelect('#caregiver-select');
+  customSelect('#caregiver-select-modal');
+  customSelect('#client-select-modal');
   toggleMobileMenu();
   stickyHeader();
   toggleEl();

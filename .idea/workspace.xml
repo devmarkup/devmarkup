@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website">
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/our-service/ready-to-start/ready-to-start-bg_mob.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/testimonials-page/contact-us/contact-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/testimonials-page/testimonials-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/testimonials-page/testimonials_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/testimonials.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-century-website/img/our-service/ready-to-start/ready-to-start-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/img/our-service/ready-to-start/ready-to-start-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/js/app.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/our-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/our-services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
