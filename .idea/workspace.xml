@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website">
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/companionship/companionship-main-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/companionship/fs/companionship-fs-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/companionship/ready-to-start/ready-to-start-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/companionship/what-is-hc/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/img/testimonials-page/fs/testimonials-fs-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-century-website/сompanionship.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/homemaker-services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/homemaker-services/fs/homemaker-services-fs-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/homemaker-services/homemaker-services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/homemaker-services/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-century-website/img/homemaker-services/ready-to-start.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-century-website/img/testimonials-page/testimonials-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/our-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/our-services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-century-website/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/testimonials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-century-website/сompanionship.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-century-website/сompanionship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +153,7 @@
       <workItem from="1672824328824" duration="1034000" />
       <workItem from="1673004808639" duration="50000" />
       <workItem from="1673526467467" duration="2000" />
+      <workItem from="1673912408753" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672824418774</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new-century-website">
+      <created>1673882928432</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673882928432</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
