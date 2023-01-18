@@ -95,6 +95,9 @@ $(document).ready(() => {
       $(this).parent().siblings('.cont-toggle').slideToggle(150);
       $(this).parent().toggleClass('active');
     });
+    if (window.innerWidth <= 1024) {
+      $('.head-toggle').removeClass('active');
+    }
   }
 
   function initPhoneMask() {
