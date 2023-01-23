@@ -33,7 +33,7 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/img/gci-services/GSIHero1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/img/gci-services/GSIHero1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/todo-bank/app-installation/Group6168.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" afterDir="false" />
@@ -199,7 +199,8 @@
       <workItem from="1673912408753" duration="4000" />
       <workItem from="1673968285439" duration="416000" />
       <workItem from="1674048395036" duration="28000" />
-      <workItem from="1674480307701" duration="17000" />
+      <workItem from="1674480307701" duration="55000" />
+      <workItem from="1674489926090" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -334,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674479778000</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new-century-website">
+      <created>1674480349423</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674480349423</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
