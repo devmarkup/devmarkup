@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-century-website">
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constellation/img/favicon/site.webmanifest" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add favicon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
@@ -40,7 +33,8 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/img/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/js/app.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" afterDir="false" />
@@ -208,7 +202,8 @@
       <workItem from="1674048395036" duration="28000" />
       <workItem from="1674480307701" duration="55000" />
       <workItem from="1674489926090" duration="37000" />
-      <workItem from="1674557251575" duration="35000" />
+      <workItem from="1674557251575" duration="164000" />
+      <workItem from="1674582792608" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -357,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674489957523</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add favicon">
+      <created>1674557325257</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674557325257</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -414,7 +416,8 @@
     <MESSAGE value="Constellation" />
     <MESSAGE value="Fix content" />
     <MESSAGE value="new-century-website" />
-    <option name="LAST_COMMIT_MESSAGE" value="new-century-website" />
+    <MESSAGE value="add favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="add favicon" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">

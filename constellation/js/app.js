@@ -57,7 +57,7 @@ $(document).ready(() => {
     $('.get-started-modal').click(function () {
       $('#get-started-modal').modal({
         showClose: false,
-        fadeDuration: 100
+        fadeDuration: 350
       });
     });
   }
