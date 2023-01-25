@@ -160,7 +160,7 @@ $(document).ready(() => {
   }
 
   // initAnimationsOnScroll();
-  // initButtonToTop();
+  initButtonToTop();
   initMenu();
   initModal();
   initIntlTelInput();
