@@ -1,4 +1,38 @@
 $(document).ready(() => {
+  function initAnimationsOnScroll() {
+    new WOW().init({
+      mobile: false
+    });
+  }
+
+  function initButtonToTop() {
+    const btnToTop = $('#btn-to-top');
+    if (btnToTop.length) {
+      let scrollTrigger = 100,
+        backToTop = function () {
+          let scrollTop = $(window).scrollTop();
+          if (scrollTop > scrollTrigger) {
+            btnToTop.addClass('show');
+          } else {
+            btnToTop.removeClass('show');
+          }
+        };
+      backToTop();
+      $(window).on('scroll', function () {
+        backToTop();
+      });
+      btnToTop.on('click', function (e) {
+        e.preventDefault();
+        $('html, body').animate(
+          {
+            scrollTop: 0
+          },
+          400
+        );
+      });
+    }
+  }
+
   function setCurrentYear() {
     $('.current-year').text(new Date().getFullYear());
   }
@@ -125,6 +159,8 @@ $(document).ready(() => {
     });
   }
 
+  // initAnimationsOnScroll();
+  // initButtonToTop();
   initMenu();
   initModal();
   initIntlTelInput();
