@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add modal shadow">
+      <change afterPath="$PROJECT_DIR$/constellation/img/services/slider/GSI-Hero.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" afterDir="false" />
@@ -205,7 +206,8 @@
       <workItem from="1674677601890" duration="81000" />
       <workItem from="1674680035086" duration="39000" />
       <workItem from="1674737978120" duration="47000" />
-      <workItem from="1674738703879" duration="5000" />
+      <workItem from="1674738703879" duration="31000" />
+      <workItem from="1674767230540" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -396,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674738012860</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add modal shadow">
+      <created>1674738730232</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674738730232</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
