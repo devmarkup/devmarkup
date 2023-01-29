@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add modal shadow">
-      <change afterPath="$PROJECT_DIR$/constellation/img/services/slider/GSI-Hero.jpg" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="Fixes">
+      <change afterPath="$PROJECT_DIR$/constellation/img/home/your-success-decor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" afterDir="false" />
@@ -33,6 +34,7 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/home/your-success-decor.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" afterDir="false" />
@@ -207,7 +209,8 @@
       <workItem from="1674680035086" duration="39000" />
       <workItem from="1674737978120" duration="47000" />
       <workItem from="1674738703879" duration="31000" />
-      <workItem from="1674767230540" duration="7000" />
+      <workItem from="1674767230540" duration="40000" />
+      <workItem from="1675000069303" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -405,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674738730232</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add modal shadow">
+      <created>1674767264308</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1674767264308</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -464,7 +474,8 @@
     <MESSAGE value="new-century-website" />
     <MESSAGE value="add favicon" />
     <MESSAGE value="add modal shadow" />
-    <option name="LAST_COMMIT_MESSAGE" value="add modal shadow" />
+    <MESSAGE value="Fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
