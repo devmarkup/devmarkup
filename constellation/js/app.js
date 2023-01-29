@@ -5,6 +5,38 @@ $(document).ready(() => {
     });
   }
 
+  function setCookies() {
+    $.cookie('cookies', 'AcceptAllCookies', {
+      expires: 7,
+      path: '/'
+    });
+  }
+
+  function acceptCookies() {
+    $('.cookies').removeClass('show');
+    setCookies();
+  }
+
+  function closeCookies() {
+    $('.cookies').removeClass('show');
+  }
+
+  function initCookies() {
+    if (!$.cookie('cookies')) {
+      const cookies = $('.cookies');
+      cookies.addClass('show');
+      $('.accept-cookies').click(function () {
+        acceptCookies();
+      });
+      $('.cookies__foot .link').click(function () {
+        closeCookies();
+      });
+      $('.cookies__head a').click(function () {
+        closeCookies();
+      });
+    }
+  }
+
   function initButtonToTop() {
     const btnToTop = $('#btn-to-top');
     if (btnToTop.length) {
@@ -160,6 +192,7 @@ $(document).ready(() => {
   }
 
   // initAnimationsOnScroll();
+  initCookies();
   initButtonToTop();
   initMenu();
   initModal();
