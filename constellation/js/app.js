@@ -191,7 +191,7 @@ $(document).ready(() => {
     });
   }
 
-  // initAnimationsOnScroll();
+  initAnimationsOnScroll();
   initCookies();
   initButtonToTop();
   initMenu();
