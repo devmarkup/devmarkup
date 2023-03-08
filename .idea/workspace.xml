@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add pl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" afterDir="false" />
@@ -33,7 +32,6 @@
       <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/img/home/your-success-decor.png" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/img/home/your-success-decor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/pl/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/pl/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/pl/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/allamerican-homecare.html" afterDir="false" />
@@ -242,7 +240,8 @@
       <workItem from="1675697637318" duration="13000" />
       <workItem from="1678027007075" duration="17000" />
       <workItem from="1678032610325" duration="45000" />
-      <workItem from="1678277112094" duration="3000" />
+      <workItem from="1678277112094" duration="48000" />
+      <workItem from="1678277579414" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -489,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678032648408</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add pl">
+      <created>1678277150617</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678277150617</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
