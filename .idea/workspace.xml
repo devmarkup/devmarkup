@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add animations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" afterDir="false" />
@@ -250,6 +249,7 @@
       <workItem from="1679340145657" duration="63000" />
       <workItem from="1679495116325" duration="646000" />
       <workItem from="1679573168071" duration="3000" />
+      <workItem from="1679665533822" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
