@@ -181,7 +181,8 @@
       <workItem from="1679665533822" duration="42000" />
       <workItem from="1680003233921" duration="155000" />
       <workItem from="1680257882945" duration="60000" />
-      <workItem from="1680350496256" duration="4000" />
+      <workItem from="1680350496256" duration="21000" />
+      <workItem from="1680351353999" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -491,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680257927316</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="open arms v1">
+      <created>1680350506625</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1680350506625</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
