@@ -4,47 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="add pl">
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/css/libs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-bold-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-bold-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-semibold-600.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/fonts/opensans-semibold-600.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/Logos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Health.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Language.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Life-Insurance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Paid-Time-Off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Paid-Training.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/Salary.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/benefits-include/bonus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/favicon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/ArrowBendDownRight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/Warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/icons/quote.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/image42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/open-arms-homecare-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/start-here/arrow-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/start-here/form-bg-mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/start-here/form-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/text-page/ornament.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/img/thank-you/Language.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/js/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/js/libs-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/js/libs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v1/thank-you.html" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="open arms v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/thank-you.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,22 +79,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "20180e",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/vitaliksemet/WebStorm/bets.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;20180e&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vitaliksemet/WebStorm/bets.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -213,7 +180,8 @@
       <workItem from="1679573168071" duration="3000" />
       <workItem from="1679665533822" duration="42000" />
       <workItem from="1680003233921" duration="155000" />
-      <workItem from="1680257882945" duration="33000" />
+      <workItem from="1680257882945" duration="60000" />
+      <workItem from="1680350496256" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -516,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680003340488</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="open arms v1">
+      <created>1680257927316</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1680257927316</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -578,7 +553,8 @@
     <MESSAGE value="Fixes" />
     <MESSAGE value="add animations" />
     <MESSAGE value="add pl" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pl" />
+    <MESSAGE value="open arms v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="open arms v1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
