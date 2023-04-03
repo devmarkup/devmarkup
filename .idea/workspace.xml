@@ -4,54 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="open arms v1">
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/css/libs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-bold-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-bold-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-semibold-600.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/fonts/opensans-semibold-600.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/Logos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Health.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Language.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Life-Insurance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Paid-Time-Off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Paid-Training.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/Salary.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/benefits-include/list-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/favicon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/ArrowBendDownRight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/Warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/icons/quote.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/image42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/open-arms-homecare-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/start-here/arrow-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/start-here/curved-arrow-with-broken-line1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/text-page/ornament.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/thank-you/Master_Line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/what-say/what-say-bottom-decor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/img/what-say/what-say-top-decor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/js/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/js/libs-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/js/libs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/terms-and-conditions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-arms-v2/thank-you.html" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="open arms v1 &amp;&amp; open arms v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v1/img/favicon/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/img/favicon/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v1/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/thank-you.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/img/favicon/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/img/favicon/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/terms-and-conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/thank-you.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +189,8 @@
       <workItem from="1680257882945" duration="60000" />
       <workItem from="1680350496256" duration="21000" />
       <workItem from="1680351353999" duration="183000" />
-      <workItem from="1680515084334" duration="7000" />
+      <workItem from="1680515084334" duration="38000" />
+      <workItem from="1680515480211" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -547,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680351363228</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="open arms v1 &amp;&amp; open arms v2">
+      <created>1680515111731</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1680515111731</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -610,7 +584,8 @@
     <MESSAGE value="add animations" />
     <MESSAGE value="add pl" />
     <MESSAGE value="open arms v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="open arms v1" />
+    <MESSAGE value="open arms v1 &amp;&amp; open arms v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="open arms v1 &amp;&amp; open arms v2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
