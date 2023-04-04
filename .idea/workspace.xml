@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="open arms v1 &amp;&amp; open arms v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/img/favicon/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/img/favicon/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/thank-you.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/img/favicon/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/img/favicon/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-arms-v2/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" afterDir="false" />
@@ -190,7 +184,8 @@
       <workItem from="1680350496256" duration="21000" />
       <workItem from="1680351353999" duration="183000" />
       <workItem from="1680515084334" duration="38000" />
-      <workItem from="1680515480211" duration="12000" />
+      <workItem from="1680515480211" duration="25000" />
+      <workItem from="1680602431368" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="cities">
       <created>1658785890796</created>
@@ -521,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680515111731</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="open arms v1 &amp;&amp; open arms v2">
+      <created>1680515500090</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1680515500090</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
