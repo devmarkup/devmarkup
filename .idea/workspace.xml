@@ -6,18 +6,92 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="open arms v1 &amp;&amp; open arms v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/img/image42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/privacy-policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/sms-and-call-terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/terms-and-conditions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v1/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v1/thank-you.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/img/image42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/privacy-policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/sms-and-call-terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/terms-and-conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/terms-and-conditions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-arms-v2/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-arms-v2/thank-you.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/alex-krasnikov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/allamerican-homecare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/android-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/android-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/banking-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/banking-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/concert-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/concert-life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/digital-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/e-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/gci-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/gci-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/illustrations.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/illustrations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/ios-and-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/ios-and-android.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/ios-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/ios-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/karina-lapko.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/karina-lapko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/m-city.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/m-city.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/mobile-applications.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/mobile-applications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/spetztekhosnastka-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/spetztekhosnastka-ltd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/todo-bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/todo-bank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/ux-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/ux-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/vitaly-shemet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/web-development.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/en/yevhen-sokolovskyi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/allamerican-homecare/m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/banking-app/banking-app.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/concert-life/Slide-Item-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/m-city/m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/spetztekhosnastka-ltd/main-screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/details-portfolio/todo-bank/todo-bank.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/img/gci-services/GSIHero1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/alex-krasnikov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/allamerican-homecare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/android-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/android-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/banking-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/banking-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/concert-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/concert-life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/digital-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/e-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/gci-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/gci-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/illustrations.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/illustrations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/ios-and-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/ios-and-android.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/ios-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/ios-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/karina-lapko.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/karina-lapko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/m-city.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/m-city.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/mobile-applications.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/mobile-applications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/spetztekhosnastka-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/spetztekhosnastka-ltd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/todo-bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/todo-bank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/ux-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/ux-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/vitaly-shemet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/web-development.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/pl/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/pl/yevhen-sokolovskyi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/alex-krasnikov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/allamerican-homecare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/android-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/android-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/banking-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/banking-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/concert-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/concert-life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/digital-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/digital-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/e-commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/e-commerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/gci-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/gci-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/illustrations.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/illustrations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/ios-and-android.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/ios-and-android.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/ios-mobile-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/ios-mobile-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/karina-lapko.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/karina-lapko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/m-city.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/m-city.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/mobile-applications.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/mobile-applications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/spetztekhosnastka-ltd.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/spetztekhosnastka-ltd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/todo-bank.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/todo-bank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/ux-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/ux-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/vitaly-shemet.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/vitaly-shemet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/web-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/web-development.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constellation/ua/yevhen-sokolovskyi.html" beforeDir="false" afterPath="$PROJECT_DIR$/constellation/ua/yevhen-sokolovskyi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +267,7 @@
       <workItem from="1680515480211" duration="25000" />
       <workItem from="1680602431368" duration="18000" />
       <workItem from="1680628715824" duration="6000" />
-    </task>
-    <task id="LOCAL-00001" summary="cities">
-      <created>1658785890796</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1658785890796</updated>
+      <workItem from="1685729421281" duration="18000" />
     </task>
     <task id="LOCAL-00002" summary="what they say">
       <created>1658851849647</created>
@@ -537,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680602443056</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="open arms v1 &amp;&amp; open arms v2">
+      <created>1680991263622</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1680991263622</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
