@@ -4,42 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="fixes">
-      <change afterPath="$PROJECT_DIR$/grand-opening/css/libs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/css/styles.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6163.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6340.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/icons/checkmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/icons/quote.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/Stars-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/before-you-go-modal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/fill-out-modal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/services-provided/Frame6177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/img/trust-pilot/Trustpilot_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/js/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/js/libs-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/js/libs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grand-opening/thank-you.html" afterDir="false" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="Grand Opening">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grand-opening/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/grand-opening/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grand-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/grand-opening/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grand-opening/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/grand-opening/thank-you.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,14 +190,8 @@
       <workItem from="1685730663527" duration="46000" />
       <workItem from="1685730715050" duration="17000" />
       <workItem from="1686342155189" duration="82000" />
-      <workItem from="1687469273759" duration="35000" />
-    </task>
-    <task id="LOCAL-00007" summary="asdasdasd">
-      <created>1670957992987</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1670957992987</updated>
+      <workItem from="1687469273759" duration="210000" />
+      <workItem from="1687472709784" duration="4000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -566,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686342231065</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Grand Opening">
+      <created>1687469322425</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1687469322425</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -630,7 +600,8 @@
     <MESSAGE value="open arms v1" />
     <MESSAGE value="open arms v1 &amp;&amp; open arms v2" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="Grand Opening" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grand Opening" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
