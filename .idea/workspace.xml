@@ -5,7 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="fixes">
+      <change afterPath="$PROJECT_DIR$/grand-opening/css/libs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/css/styles.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6163.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/fs/Frame6340.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/icons/checkmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/icons/quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/Stars-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/before-you-go-modal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/modals/fill-out-modal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/services-provided/Frame6177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/img/trust-pilot/Trustpilot_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/js/libs-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/js/libs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grand-opening/thank-you.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,13 +220,8 @@
       <workItem from="1685730173099" duration="43000" />
       <workItem from="1685730663527" duration="46000" />
       <workItem from="1685730715050" duration="17000" />
-    </task>
-    <task id="LOCAL-00006" summary="asdasdasd">
-      <created>1670956711473</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1670956711473</updated>
+      <workItem from="1686342155189" duration="82000" />
+      <workItem from="1687469273759" duration="35000" />
     </task>
     <task id="LOCAL-00007" summary="asdasdasd">
       <created>1670957992987</created>
@@ -530,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685730705009</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fixes">
+      <created>1686342231065</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1686342231065</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

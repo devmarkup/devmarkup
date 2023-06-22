@@ -1,2 +1,1 @@
 # bets.github.io
-s
