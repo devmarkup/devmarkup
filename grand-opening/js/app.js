@@ -15,7 +15,7 @@ $(document).ready(() => {
         showClose: false,
         fadeDuration: 150
       });
-    }, 3000);
+    }, 30000);
     $('.close-popup').click(function () {
       $('.modal-close').click();
     });
