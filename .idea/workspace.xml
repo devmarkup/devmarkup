@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new avatar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/css/download.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/css/download.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/download-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/download-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/app-is-section/app-is.png" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/app-is-section/app-is.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/calculator-section/calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/download-section/app-store.svg" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/download-section/app-store.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/download-section/google-play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/download-section/google-play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/todo/img/how-to-get/how-to-get-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
@@ -193,6 +208,8 @@
       <workItem from="1687473193385" duration="35000" />
       <workItem from="1687473536102" duration="602000" />
       <workItem from="1687525258416" duration="11000" />
+      <workItem from="1694355476655" duration="31000" />
+      <workItem from="1694359642805" duration="4000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
