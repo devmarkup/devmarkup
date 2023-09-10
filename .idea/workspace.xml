@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="Grand Opening">
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new avatar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/css/libs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/css/styles.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/arial-bold-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/arialregular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-bold-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-extrabold-800.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/fonts/futurapt-medium-500.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/fs/Frame6151.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/fs/Frame6163.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/fs/Frame6186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/fs/Frame6339.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/fs/Frame6340.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/icons/checkmark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/icons/quote.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/modals/Stars-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/modals/before-you-go-modal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/modals/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/modals/fill-out-modal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/services-provided/Frame6177.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/img/trust-pilot/Trustpilot_Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/js/app.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/js/libs-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/js/libs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grand-opening/thank-you.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
