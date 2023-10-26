@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new avatar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/download-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/download-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/en.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/en.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +200,7 @@
       <workItem from="1694355476655" duration="31000" />
       <workItem from="1694359642805" duration="33000" />
       <workItem from="1694359679507" duration="3000" />
-      <workItem from="1694362543088" duration="4000" />
+      <workItem from="1694362543088" duration="48000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -548,7 +545,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687469322425</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
