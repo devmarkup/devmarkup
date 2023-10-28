@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new avatar" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-template-sections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-template-sections/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-template-sections/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/js/app.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/js/libs-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-template-sections/js/libs.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +89,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.github.iguissouma.nxconsole.dontShowDeprecationNoticeAgain&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/vitaliksemet/WebStorm/bets.github.io&quot;,
@@ -201,6 +210,8 @@
       <workItem from="1694362543088" duration="48000" />
       <workItem from="1698337427644" duration="437000" />
       <workItem from="1698393473998" duration="27000" />
+      <workItem from="1698498442096" duration="349000" />
+      <workItem from="1698499417322" duration="8000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -545,7 +556,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687469322425</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -611,7 +622,8 @@
     <MESSAGE value="fixes" />
     <MESSAGE value="Grand Opening" />
     <MESSAGE value="new avatar" />
-    <option name="LAST_COMMIT_MESSAGE" value="new avatar" />
+    <MESSAGE value="new-template-sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="new-template-sections" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
