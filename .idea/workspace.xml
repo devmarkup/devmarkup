@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="green-all-american-home-care" />
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="green-all-american-home-care">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,6 +209,7 @@
       <workItem from="1698502680662" duration="47000" />
       <workItem from="1698516827946" duration="60000" />
       <workItem from="1698755465324" duration="82000" />
+      <workItem from="1698755718934" duration="312000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
