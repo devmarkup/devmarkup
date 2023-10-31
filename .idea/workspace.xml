@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="new-template-sections">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/css/libs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/css/styles.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextbold-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextbold-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextcyr-medium-600.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextcyr-medium-600.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextcyr-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/avenirnextcyr-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/montserrat-bold-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/fonts/montserrat-bold-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/favicon/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/form-center-block/Frame1000006935.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/form-center-block/Frame1000006936.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/form-right-block/Frame1000006937.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/icons/Asterisk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/icons/CheckFat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/img-left-block/Frame1000006938.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/img-left-block/Photo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/pattern-left-block/Frame1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/img/pattern-right-block/Geometric4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-template-sections/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="green-all-american-home-care" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +206,7 @@
       <workItem from="1698499417322" duration="21000" />
       <workItem from="1698502680662" duration="47000" />
       <workItem from="1698516827946" duration="60000" />
-      <workItem from="1698755465324" duration="5000" />
+      <workItem from="1698755465324" duration="82000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -574,7 +551,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687469322425</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -641,7 +618,8 @@
     <MESSAGE value="Grand Opening" />
     <MESSAGE value="new avatar" />
     <MESSAGE value="new-template-sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="new-template-sections" />
+    <MESSAGE value="green-all-american-home-care" />
+    <option name="LAST_COMMIT_MESSAGE" value="green-all-american-home-care" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v.shemet/index.html">
