@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="green-all-american-home-care">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2bae409f-caa4-4213-b011-b8e9c9ae6c02" name="Default" comment="green-all-american-home-care" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,6 +208,7 @@
       <workItem from="1698516827946" duration="60000" />
       <workItem from="1698755465324" duration="82000" />
       <workItem from="1698755718934" duration="312000" />
+      <workItem from="1698756475251" duration="25000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -554,7 +553,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687469322425</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
