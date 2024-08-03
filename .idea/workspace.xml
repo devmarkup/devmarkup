@@ -218,6 +218,7 @@
       <workItem from="1698756475251" duration="25000" />
       <workItem from="1698757720688" duration="10000" />
       <workItem from="1722617231320" duration="232000" />
+      <workItem from="1722679825731" duration="43000" />
     </task>
     <task id="LOCAL-00008" summary="start">
       <created>1671985503371</created>
@@ -562,7 +563,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687469322425</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
